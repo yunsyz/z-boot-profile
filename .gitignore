@@ -1,0 +1,10 @@
+*.iml
+*.classpath
+*.project
+**/.idea
+**/out
+**/target
+**/logs
+**/classes
+**/.settings
+**/.externalToolBuilders
